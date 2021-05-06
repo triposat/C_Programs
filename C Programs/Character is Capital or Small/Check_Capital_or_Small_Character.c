@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int y;
-    char ch = y;
-
+    char y;
     printf("Enter a Character: ");
     scanf("%c", &y);
     if ((y >= 64) && (y < 91))
