@@ -19,7 +19,7 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-1-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
-<h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c">Perform Additon and Subtraction Using Function.</a></h3>
+<h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c">Perform Additon and Subtraction using Function.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Alphabets%20Floyd's%20Triangle/Alphabates_Floyd's_Triangle.c"><img src="https://img.shields.io/badge/PROBLEM-2-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
