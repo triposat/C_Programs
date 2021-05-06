@@ -46,5 +46,7 @@
 <h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Bubble%20Sorting%20of%20Numbers/Bubble_Sorting_of_Numbers.c">Program to Sort the given numbers.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Calculator/Calculator.c"><img src="https://img.shields.io/badge/PROBLEM-8-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Calculator/Calculator.c">Implement a simple Calculator(Add, Sub, Mul, Div)</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Calculator/Calculator.c"><img src="https://img.shields.io/badge/PROBLEM-8-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Calculator/Calculator.c">Implement a simple Calculator(Add, Sub, Mul, and Div)</a></h3>
 
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20Capital%20or%20Small/Character_is_Capital_Small_or_Number.c"><img src="https://img.shields.io/badge/PROBLEM-9-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20Capital%20or%20Small/Character_is_Capital_Small_or_Number.c">Check whether given character is Capital, Small, or a Number.</a></h3>
