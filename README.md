@@ -26,3 +26,5 @@
 <pre align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Armstrong%20Number/Armstrong_Number.c"><img src="https://img.shields.io/badge/PROBLEM-3-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Armstrong%20Number/Armstrong_Number.c">Program to check whether given number is Armstrong or not.</a></h3>
 
+<pre align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Armstrong%20Numbers%20between%20Range/Armstrong_Number_Between_Given_Range.c"><img src="https://img.shields.io/badge/PROBLEM-4-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Armstrong%20Numbers%20between%20Range/Armstrong_Number_Between_Given_Range.c">Program to find all the Armstrong Numbers b/w given range.</a></h3>
