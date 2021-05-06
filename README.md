@@ -18,4 +18,4 @@
 </p>
 
 <pre align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-1-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
-<ol align="center">Perform Additon and Subtraction Using Function.<a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c"></a></ol>
+<h2 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Add_Subtract_Using%20Function/Add_Subtract_Using_Function.c">Perform Additon and Subtraction Using Function.</a></h2>
