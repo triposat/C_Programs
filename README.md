@@ -4,5 +4,5 @@
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 
 <p align="center">
-<img align="center" src="https://octodex.github.com/images/socialite.jpg" width="300"/>
+<img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="300"/>
 </p>
