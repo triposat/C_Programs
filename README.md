@@ -64,4 +64,7 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete a element at given position.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c"><img src="https://img.shields.io/badge/PROBLEM-14-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c">Program to print Diamond Patter.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c"><img src="https://img.shields.io/badge/PROBLEM-14-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c">Program to print Diamond pattern.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Different%20Operations%20in%20an%20Array/Different_Operation_Using_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-15-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Different%20Operations%20in%20an%20Array/Different_Operation_Using_Arrays.c">Program to perform Different Operations in array of elements.</a></h3>
