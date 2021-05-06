@@ -58,7 +58,10 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c"><img src="https://img.shields.io/badge/PROBLEM-11-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c">Program to print number of Words, Vowels, Consonants, Digits, Special Symbols, and Digits in a Sentence.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c"><img src="https://img.shields.io/badge/PROBLEM-12-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c">Program to convert Decimal to Binary.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c"><img src="https://img.shields.io/badge/PROBLEM-12-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c">Program to convert Decimal into Binary.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete a element at given position.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c"><img src="https://img.shields.io/badge/PROBLEM-14-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c">Program to print Diamond Patter.</a></h3>
