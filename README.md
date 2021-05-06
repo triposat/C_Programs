@@ -53,3 +53,6 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c"><img src="https://img.shields.io/badge/PROBLEM-10-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c">Check whether Two Dates are same or not.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c"><img src="https://img.shields.io/badge/PROBLEM-11-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c">Program to print number of Words, Vowels, Consonants, Digits, Special Symbols, and Digits in a Sentence.</a></h3>
