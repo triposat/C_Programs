@@ -50,3 +50,6 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20a%20Lower%2C%20Upper%2C%20Digit%2C%20%26%20Special/Upper_Lower_digit_Special.c"><img src="https://img.shields.io/badge/PROBLEM-9-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20a%20Lower%2C%20Upper%2C%20Digit%2C%20%26%20Special/Upper_Lower_digit_Special.c">Check whether given character is Capital, Small, Number, or a Special character.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c"><img src="https://img.shields.io/badge/PROBLEM-10-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c">Check whether Two Dates are same or not.</a></h3>
