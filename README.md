@@ -30,4 +30,8 @@
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Armstrong%20Numbers%20between%20Range/Armstrong_Number_Between_Given_Range.c">Program to find all the Armstrong Numbers b/w given range.</a></h3>
 
 <pre align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Binary%20Search/Binary_Search.c"><img src="https://img.shields.io/badge/PROBLEM-5-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Binary%20Search/Binary_Search.c">Program to implement Binary Search.</a></h3>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Binary%20Search/Binary_Search.c">Program to implement Binary Search Algorithm.</a></h3>
+
+
+<pre align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Bubble%20Sorting%20of%20Names/Bubble_Sorting_Of_Names.c"><img src="https://img.shields.io/badge/PROBLEM-6-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Bubble%20Sorting%20of%20Names/Bubble_Sorting_Of_Names.c">Program to Sort the names of students.</a></h3>
