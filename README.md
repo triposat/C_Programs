@@ -6,3 +6,13 @@
 <p align="center">
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="300"/>
 </p>
+
+<p align="center">
+<img src="https://forthebadge.com/images/badges/for-you.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-c.svg" />
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{C_Programs}/count.svg"/>
+</p>
