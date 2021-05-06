@@ -61,7 +61,7 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c"><img src="https://img.shields.io/badge/PROBLEM-12-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c">Program to convert Decimal into Binary.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete a element at given position.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete an element at given position.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c"><img src="https://img.shields.io/badge/PROBLEM-14-red.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c">Program to print Diamond pattern.</a></h3>
