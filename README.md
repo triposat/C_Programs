@@ -95,3 +95,27 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c"><img src="https://img.shields.io/badge/PROBLEM-24-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c">Program to Display Opposite of Floyd's Triangle.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c"><img src="https://img.shields.io/badge/PROBLEM-24-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c">Program to Display Opposite of Floyd's Triangle.</a></h3>
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fseek%20Function/fseek_Function.c"><img src="https://img.shields.io/badge/PROBLEM-25-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fseek%20Function/fseek_Function.c">Program for the implementation of Fseek function.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Generate%20Random%20Numbers/Random_Numbers.c"><img src="https://img.shields.io/badge/PROBLEM-26-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Generate%20Random%20Numbers/Random_Numbers.c">Program to generate Random Numbers.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c"><img src="https://img.shields.io/badge/PROBLEM-27-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c">Program to find 1st and 2nd largest number in an array of numbers.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c"><img src="https://img.shields.io/badge/PROBLEM-28-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c">Program to Insert element at a given position.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c"><img src="https://img.shields.io/badge/PROBLEM-29-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c">Program to perform Insertion Sort in a array of elements.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c"><img src="https://img.shields.io/badge/PROBLEM-30-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c">Program to find Intersection of two sets.</a></h3>
