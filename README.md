@@ -155,4 +155,4 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c"><img src="https://img.shields.io/badge/PROBLEM-39-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c">Program to Display Mesaage Box.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c"><img src="https://img.shields.io/badge/PROBLEM-40-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c">Program to calculate n<sub>c<sub>r</sub></sub></a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c"><img src="https://img.shields.io/badge/PROBLEM-40-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c">Program to calculate n<sub>**c**<sub>**r**</sub></sub></a></h3>
