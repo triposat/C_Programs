@@ -14,5 +14,5 @@ int main()
 	printf("\n Enter the value of n and r: ");
 	scanf("\n%d%d", &n, &r);
 	ncr = factorial(n) / factorial(r) * factorial(n - r);
-	printf("\n value of NCR is: %lf", ncr);
+	printf("\n Value of nCr is: %lf", ncr);
 }
