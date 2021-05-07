@@ -119,3 +119,37 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c"><img src="https://img.shields.io/badge/PROBLEM-30-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c">Program to find Intersection of two sets.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c"><img src="https://img.shields.io/badge/PROBLEM-31-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c">Program to find the largest number among three using Ternary Operator.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c"><img src="https://img.shields.io/badge/PROBLEM-32-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c">Program to check whether given year is Leap or not.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c"><img src="https://img.shields.io/badge/PROBLEM-33-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c">Program to perform Left Shift Operation in a given number.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Library%20Books/Library_Books.c"><img src="https://img.shields.io/badge/PROBLEM-34-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Library%20Books/Library_Books.c">Program to make a Simple Library Management System.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Linear%20Search/Linear_Searching.c"><img src="https://img.shields.io/badge/PROBLEM-35-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Linear%20Search/Linear_Searching.c">Program for Linear Search.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Matrix%20Multiplication/Matrix_Multiplication.c"><img src="https://img.shields.io/badge/PROBLEM-36-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Matrix%20Multiplication/Matrix_Multiplication.c">Program for Matrix Multiplication.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Max%20and%20Min%20Using%202D%20Arrays/Max_Min_Using_2D_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-37-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Max%20and%20Min%20Using%202D%20Arrays/Max_Min_Using_2D_Arrays.c">Program to find the Maximum and Minimum element in a Matrix.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-38-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c">Program for Merging Two Arrays of different size.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c"><img src="https://img.shields.io/badge/PROBLEM-39-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c">Program to Display Mesaage Box.</a></h3>
