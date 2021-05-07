@@ -76,6 +76,10 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Equation%20of%20line/Equation_of_Line.c"><img src="https://img.shields.io/badge/PROBLEM-17-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Equation%20of%20line/Equation_of_Line.c">Program for Equation of line.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-18-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c">Program to find the Factorial of number using Function.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c"><img src="https://img.shields.io/badge/PROBLEM-18-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c">Program to find the Factorial of number.</a></h3>
 
 
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-19-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c">Program to find the Factorial of number using Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-20-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c">Program to find the Factorial of number using Recursion.</a></h3>
