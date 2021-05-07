@@ -8,16 +8,7 @@ int main()
     {
         for (j = 1; j <= i; j++)
         {
-            printf("%d", ++count);
-        }
-        printf("\n");
-    }
-    for (i = n; i >= 1; i--)
-    {
-        x = i;
-        for (j = 1; j <= i; j++)
-        {
-            printf("%d", x++);
+            printf("%d ", ++count);
         }
         printf("\n");
     }
