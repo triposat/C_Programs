@@ -77,3 +77,5 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-18-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c">Program to find the Factorial of number using Function.</a></h3>
+
+
