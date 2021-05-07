@@ -83,3 +83,15 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-20-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c">Program to find the Factorial of number using Recursion.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fibonacci%20Series/Fibonacci_Series.c"><img src="https://img.shields.io/badge/PROBLEM-21-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fibonacci%20Series/Fibonacci_Series.c">Program to Display Fibonacci Series.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle/Floyd's_Triangle.c"><img src="https://img.shields.io/badge/PROBLEM-22-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle/Floyd's_Triangle.c">Program to Display Floyd's Triangle.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Using%20Recursion/Floyd's_Triangle_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-23-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Using%20Recursion/Floyd's_Triangle_Using_Recursion.c">Program to Display Floyd's Triangle using Recursion.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c"><img src="https://img.shields.io/badge/PROBLEM-24-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Floyd's%20Triangle%20Opposite/Floyd's_Triangle_Opposite.c">Program to Display Opposite of Floyd's Triangle.</a></h3>
