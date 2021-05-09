@@ -185,4 +185,19 @@
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c"><img src="https://img.shields.io/badge/PROBLEM-46-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c">Program to find the number of Digits present in a Number using Recursion.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Occurrence%20of%20Character%20in%20String/Occurrence_of_Character_in_String.c"><img src="https://img.shields.io/badge/PROBLEM-46-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Occurrence%20of%20Character%20in%20String/Occurrence_of_Character_in_String.c">Program to find the Occurrence of a particular charater in a sentence.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Odd%20Even%20Using%20File%20Handling/Odd_Even_Using_file_Handling.c"><img src="https://img.shields.io/badge/PROBLEM-47-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Odd%20Even%20Using%20File%20Handling/Odd_Even_Using_file_Handling.c">Program to check that whether number is even or not using File Hnadling.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Particular%20Character%20Occurrence/Particular_Character_Occurrence.c"><img src="https://img.shields.io/badge/PROBLEM-48-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Particular%20Character%20Occurrence/Particular_Character_Occurrence.c">Program to check how many times every number repeats in an array.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal%20Triangle/Pascal_Triangle.c"><img src="https://img.shields.io/badge/PROBLEM-49-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal%20Triangle/Pascal_Triangle.c">Program to print Pascal's Triangle.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c"><img src="https://img.shields.io/badge/PROBLEM-50-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c">Program to print Pascal's Triangle(2nd Approach).</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c"><img src="https://img.shields.io/badge/PROBLEM-51-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c">Program for p[assing Structure to Function.</a></h3>
