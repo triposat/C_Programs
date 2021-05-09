@@ -4,7 +4,7 @@ int main()
     int a, b, i, num, count;
     printf("Enter the Range: ");
     scanf("%d%d", &a, &b);
-    printf("\nPrime No. between %d And %d are: ", a, b);
+    printf("\nPrime No. between %d and %d are: ", a, b);
     for (num = a; num <= b; num++)
     {
         count = 0;
