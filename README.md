@@ -239,9 +239,6 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c"><img src="https://img.shields.io/badge/PROBLEM-63-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c">Program to Remove all the characters except Alphabets from a string.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c"><img src="https://img.shields.io/badge/PROBLEM-63-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c">Program to Remove all the characters except Alphabets from a string.</a></h3>
-
-
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20Sentence/Reversing_The_Sentence.c"><img src="https://img.shields.io/badge/PROBLEM-64-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20Sentence/Reversing_The_Sentence.c">Program to Reverse the string.</a></h3>
 
 
