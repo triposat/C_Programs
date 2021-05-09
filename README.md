@@ -225,3 +225,10 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c"><img src="https://img.shields.io/badge/PROBLEM-59-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c">Program to Remove all the Consonants from a string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Read%20File%20Data/Read_Data_from_File.c"><img src="https://img.shields.io/badge/PROBLEM-60-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Read%20File%20Data/Read_Data_from_File.c">Program to Store Records in a Text file, then Read Records , and print them.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c"><img src="https://img.shields.io/badge/PROBLEM-61-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c">Program to Remove all the Consonants from the String.</a></h3>
