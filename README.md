@@ -156,3 +156,7 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c"><img src="https://img.shields.io/badge/PROBLEM-40-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c">Program to calculate the value of n<sub><b>c</b><sub><b>r</b></sub></sub></a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c"><img src="https://img.shields.io/badge/PROBLEM-41-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c">Program to Display the number of characters present in a Text File.</a></h3>
+
