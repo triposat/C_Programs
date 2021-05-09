@@ -200,4 +200,9 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c"><img src="https://img.shields.io/badge/PROBLEM-50-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c">Program to print Pascal's Triangle(2nd Approach).</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c"><img src="https://img.shields.io/badge/PROBLEM-51-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c">Program for p[assing Structure to Function.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c"><img src="https://img.shields.io/badge/PROBLEM-51-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c">Program for passing Structure to Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perfect%20Number/Perfect_Numbers.c"><img src="https://img.shields.io/badge/PROBLEM-52-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perfect%20Number/Perfect_Numbers.c">Program to check whether given number is Perfect or not.</a></h3>
+
+
