@@ -248,4 +248,16 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c"><img src="https://img.shields.io/badge/PROBLEM-65-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c">Program to Reverse the string using Function.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c"><img src="https://img.shields.io/badge/PROBLEM-66-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c">Program to Reverse the string using Function.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Search%20Name%20by%20First%20Name/Search_Name_by_First_Character.c"><img src="https://img.shields.io/badge/PROBLEM-66-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Search%20Name%20by%20First%20Name/Search_Name_by_First_Character.c">Program to Search String by first character and print it.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Search%20Word%20Using%20File%20Handling/Search_Word_Using_File_Handling.c"><img src="https://img.shields.io/badge/PROBLEM-67-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Search%20Word%20Using%20File%20Handling/Search_Word_Using_File_Handling.c">Program to Search words from the text file.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/ShutDown%20Window/Windows_Shut_Down_Code.c"><img src="https://img.shields.io/badge/PROBLEM-68-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/ShutDown%20Window/Windows_Shut_Down_Code.c">Program for ShutDown your PC.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sleep%20Program/Sleep_Program.c"><img src="https://img.shields.io/badge/PROBLEM-69-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sleep%20Program/Sleep_Program.c">Program for Sleep Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcat%20Function/Strcat.c"><img src="https://img.shields.io/badge/PROBLEM-70-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcat%20Function/Strcat.c">Program for StrCat Function.</a></h3>
