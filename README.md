@@ -158,5 +158,27 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c"><img src="https://img.shields.io/badge/PROBLEM-40-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/NCR/NCR.c">Program to calculate the value of n<sub><b>c</b><sub><b>r</b></sub></sub></a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c"><img src="https://img.shields.io/badge/PROBLEM-41-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c">Program to Display the number of characters present in a Text File.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c"><img src="https://img.shields.io/badge/PROBLEM-41-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/No.%20of%20Charaters%20Using%20File%20Handling/No._of_Character_Using_File_Handling.c">Program to display the number of characters present in a Text File.</a></h3>
 
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20Pattern%20Triangle/Numbers_Pattern_Triangle.c"><img src="https://img.shields.io/badge/PROBLEM-42-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20Pattern%20Triangle/Numbers_Pattern_Triangle.c">Program to Display a Pattern of numbers like given below.</a></h3>
+```
+1
+12
+123
+1234
+12345
+12345
+1234
+123
+12
+1
+```
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c"><img src="https://img.shields.io/badge/PROBLEM-43-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c">Program to find the number of Digits present in a Number.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits/No_of_Digits.c"><img src="https://img.shields.io/badge/PROBLEM-44-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits/No_of_Digits.c">Program to find the number of Digits present in a Number.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c"><img src="https://img.shields.io/badge/PROBLEM-45-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c">Program to find the number of Digits present in a Number using Recursion.</a></h3>
