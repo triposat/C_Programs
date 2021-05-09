@@ -107,7 +107,7 @@
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c"><img src="https://img.shields.io/badge/PROBLEM-27-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c">Program to find 1st and 2nd largest number in an array of numbers.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c"><img src="https://img.shields.io/badge/PROBLEM-27-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Greater%20Number%20using%20Array/Greater_Number_Using_Array.c">Program to find 1<sup>st</sup> and 2<sup>nd</sup> largest number in an array of numbers.</a></h3>
 
 
 
@@ -197,12 +197,10 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal%20Triangle/Pascal_Triangle.c"><img src="https://img.shields.io/badge/PROBLEM-49-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal%20Triangle/Pascal_Triangle.c">Program to print Pascal's Triangle.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c"><img src="https://img.shields.io/badge/PROBLEM-50-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c">Program to print Pascal's Triangle(2nd Approach).</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c"><img src="https://img.shields.io/badge/PROBLEM-50-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Pascal's%20Triangle%202nd%20Approach/Pascal_Triangle_2nd_Approach.c">Program to print Pascal's Triangle(2<sup>nd</sup> Approach).</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c"><img src="https://img.shields.io/badge/PROBLEM-51-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Passing%20Structure%20to%20Function/Passing_Structure_to_Function.c">Program for passing Structure to Function.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perfect%20Number/Perfect_Numbers.c"><img src="https://img.shields.io/badge/PROBLEM-52-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perfect%20Number/Perfect_Numbers.c">Program to check whether given number is Perfect or not.</a></h3>
-
-
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perform%20Many%20Tasks%20on%20String/Many_tasks_in_one_number.c"><img src="https://img.shields.io/badge/PROBLEM-52-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Perform%20Many%20Tasks%20on%20String/Many_tasks_in_one_number.c">Perform many Operations in a given number.</a></h3>
