@@ -230,5 +230,22 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Read%20File%20Data/Read_Data_from_File.c"><img src="https://img.shields.io/badge/PROBLEM-60-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Read%20File%20Data/Read_Data_from_File.c">Program to Store Records in a Text file, then Read Records , and print them.</a></h3>
 
 
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Vowels/Remove_all_theVowels.c"><img src="https://img.shields.io/badge/PROBLEM-61-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Vowels/Remove_all_the_Vowels.c">Program to Remove all the Vowels from a string.</a></h3>
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c"><img src="https://img.shields.io/badge/PROBLEM-61-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20All%20The%20Consonants/Remove_all_the_Consonants.c">Program to Remove all the Consonants from the String.</a></h3>
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20Space%20from%20the%20String/Removing_Spaces.c"><img src="https://img.shields.io/badge/PROBLEM-62-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20Space%20from%20the%20String/Removing_Spaces.c">Program to Remove all the Spaces from a string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c"><img src="https://img.shields.io/badge/PROBLEM-63-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c">Program to Remove all the characters except Alphabets from a string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c"><img src="https://img.shields.io/badge/PROBLEM-63-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Remove%20all%20Except%20Alphabets/Remove_all_Except_Alphabates.c">Program to Remove all the characters except Alphabets from a string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20Sentence/Reversing_The_Sentence.c"><img src="https://img.shields.io/badge/PROBLEM-64-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20Sentence/Reversing_The_Sentence.c">Program to Reverse the string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c"><img src="https://img.shields.io/badge/PROBLEM-65-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c">Program to Reverse the string using Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c"><img src="https://img.shields.io/badge/PROBLEM-66-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Reverse%20The%20String%20Using%20Function/Reversing_The_String.c">Program to Reverse the string using Function.</a></h3>
