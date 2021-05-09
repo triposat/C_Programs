@@ -175,7 +175,7 @@
 1
 ```
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c"><img src="https://img.shields.io/badge/PROBLEM-43-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits%20Using%20Recursion/No_of_digits_Using_recursion.c">Program to find the number of Digits present in a Number.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strong%20Number/Strong_Number.c"><img src="https://img.shields.io/badge/PROBLEM-43-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strong%20Number/Strong_Number.c">Program to check whether number is a Strong number or not.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits/No_of_Digits.c"><img src="https://img.shields.io/badge/PROBLEM-44-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Number%20of%20Digits/No_of_Digits.c">Program to find the number of Digits present in a Number.</a></h3>
