@@ -3,7 +3,7 @@ int main()
 {
     char a[150];
     int i, j;
-    printf("\n Enter a string: ");
+    printf("\n Enter a String: ");
     gets(a);
     for (i = 0; a[i] != '\0'; i++)
     {
