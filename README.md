@@ -282,4 +282,28 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20and%20Average%20of%20Matrix%20Using%202D%20Array/Sum_and_Average_of_Matrix_Using_2d_Array.c"><img src="https://img.shields.io/badge/PROBLEM-76-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20and%20Average%20of%20Matrix%20Using%202D%20Array/Sum_and_Average_of_Matrix_Using_2d_Array.c">Program to find the Sum and Average of Matrix elements.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c"><img src="https://img.shields.io/badge/PROBLEM-77-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c">Program to find the Sum of Diagonal elements.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c"><img src="https://img.shields.io/badge/PROBLEM-77-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c">Program to find the Sum of Diagonal elements in a Matrix.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%2C%20Add%2C%20Mul%2C%20Div%20in%20Matrix/Sum_Div_Mult_Sub_Of_Matrix.c"><img src="https://img.shields.io/badge/PROBLEM-78-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%2C%20Add%2C%20Mul%2C%20Div%20in%20Matrix/Sum_Div_Mult_Sub_Of_Matrix.c">Program to perform Addition, Subtraction, Multiplication, and Division in a Matrix.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Swap%20Adjacent%20Characters%20of%20String/Swap_Adjacent_Character.c"><img src="https://img.shields.io/badge/PROBLEM-80-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Swap%20Adjacent%20Characters%20of%20String/Swap_Adjacent_Character.c">Program to Swap Adjacent characters in a string.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Symmetric%20Difference/Symmetric_Difference.c"><img src="https://img.shields.io/badge/PROBLEM-81-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Symmetric%20Difference/Symmetric_Difference.c">Program to find the Symmetric Difference of two sets.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Table%20of%20Number/Table_of_No.c"><img src="https://img.shields.io/badge/PROBLEM-82-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Table%20of%20Number/Table_of_No.c">Program to print the Multiplication Table of number.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Table%20of%20a%20Number%20Using%20Recursion/Table_using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-83-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Table%20of%20a%20Number%20Using%20Recursion/Table_using_Recursion.c">Program to print the Multiplication Table of number using Recursion.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Union%20of%20Sets/Union_Of_Sets.c"><img src="https://img.shields.io/badge/PROBLEM-84-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Union%20of%20Sets/Union_Of_Sets.c">Program to find the Union of two sets.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/UpperCase%20to%20LowerCase%20%26%20LowerCase%20to%20UpperCase/Upper_to_Lower_Lower_to_Upper.c"><img src="https://img.shields.io/badge/PROBLEM-85-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/UpperCase%20to%20LowerCase%20%26%20LowerCase%20to%20UpperCase/Upper_to_Lower_Lower_to_Upper.c">Program to convert UpperCase to LowerCase & LowerCase to UpperCase.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Vowel%20Present%20in%20String%20or%20Not/Vowels_Present_in_String_Or_Not.c"><img src="https://img.shields.io/badge/PROBLEM-86-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Vowel%20Present%20in%20String%20or%20Not/Vowels_Present_in_String_Or_Not.c">Program to count Vowels in a string.</a></h3>
