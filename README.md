@@ -277,3 +277,9 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-75-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c">Program to find the Sum upto n numbers.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20and%20Average%20of%20Matrix%20Using%202D%20Array/Sum_and_Average_of_Matrix_Using_2d_Array.c"><img src="https://img.shields.io/badge/PROBLEM-76-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20and%20Average%20of%20Matrix%20Using%202D%20Array/Sum_and_Average_of_Matrix_Using_2d_Array.c">Program to find the Sum and Average of Matrix elements.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c"><img src="https://img.shields.io/badge/PROBLEM-77-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20of%20Diagonal%20of%20Matrix/Sum_of_Diagonal_of_Matrix.c">Program to find the Sum of Diagonal elements.</a></h3>
