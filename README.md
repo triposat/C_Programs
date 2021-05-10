@@ -4,7 +4,7 @@
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/C_Programs?color=red&label=Lines%20of%20Code)
 ![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/C_Programs?color=red&label=Repo%20Size%20)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 ![](https://profile-counter.glitch.me/{C_Programs}/count.svg)
 
 
