@@ -52,16 +52,16 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20a%20Lower%2C%20Upper%2C%20Digit%2C%20%26%20Special/Upper_Lower_digit_Special.c"><img src="https://img.shields.io/badge/PROBLEM-9-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Character%20is%20a%20Lower%2C%20Upper%2C%20Digit%2C%20%26%20Special/Upper_Lower_digit_Special.c">Check whether given character is Capital, Small, Number, or a Special character.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c"><img src="https://img.shields.io/badge/PROBLEM-10-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c">Check whether Two Dates are same or not.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c"><img src="https://img.shields.io/badge/PROBLEM-10-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Comparing%20Two%20Dates/Comparing_Two_Dates.c">Compare Two Dates.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c"><img src="https://img.shields.io/badge/PROBLEM-11-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Count%20Vowels%2C%20Digits%2C%20and%20many%20more/Count_Vowels_Digits_%26_Many_Things.c">Program to print number of Words, Vowels, Consonants, Digits, Special Symbols, and Spaces in a Sentence.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c"><img src="https://img.shields.io/badge/PROBLEM-12-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c">Program to convert Decimal into Binary.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c"><img src="https://img.shields.io/badge/PROBLEM-12-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Decimal%20To%20Binary/Decimal_To_Binary.c">Program to convert Decimal to Binary.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete an element at given position.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c"><img src="https://img.shields.io/badge/PROBLEM-13-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Delete%20Elements%20in%20Array/Delete_Element.c">Program to Delete an element at desired position from an array.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c"><img src="https://img.shields.io/badge/PROBLEM-14-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Diamond%20Pattern/Diamond_Pattern.c">Program to print Diamond pattern.</a></h3>
@@ -70,19 +70,19 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Different%20Operations%20in%20an%20Array/Different_Operation_Using_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-15-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Different%20Operations%20in%20an%20Array/Different_Operation_Using_Arrays.c">Program to perform Different Operations in an array of elements.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Employee%20Record%20Using%20Struct/Employee_Record_Using_Struct.c"><img src="https://img.shields.io/badge/PROBLEM-16-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Employee%20Record%20Using%20Struct/Employee_Record_Using_Struct.c">Implement a program that will store all the information of Students.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Employee%20Record%20Using%20Struct/Employee_Record_Using_Struct.c"><img src="https://img.shields.io/badge/PROBLEM-16-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Employee%20Record%20Using%20Struct/Employee_Record_Using_Struct.c">Program to Store Information of a Students.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Equation%20of%20line/Equation_of_Line.c"><img src="https://img.shields.io/badge/PROBLEM-17-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Equation%20of%20line/Equation_of_Line.c">Program for Equation of line.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c"><img src="https://img.shields.io/badge/PROBLEM-18-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c">Program to find the Factorial of number.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c"><img src="https://img.shields.io/badge/PROBLEM-18-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20of%20Number/Factorial_of_number.c">Program to find the Factorial of a number.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-19-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c">Program to find the Factorial of number using Function.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c"><img src="https://img.shields.io/badge/PROBLEM-19-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Function/Factorial_Using_Function.c">Program to find the Factorial of a number using Function.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-20-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c">Program to find the Factorial of number using Recursion.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-20-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Factorial%20Using%20Recursion/Factorial_Using_Recursion.c">Program to find the Factorial of a number using Recursion.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fibonacci%20Series/Fibonacci_Series.c"><img src="https://img.shields.io/badge/PROBLEM-21-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Fibonacci%20Series/Fibonacci_Series.c">Program to Display Fibonacci Series.</a></h3>
@@ -111,26 +111,26 @@
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c"><img src="https://img.shields.io/badge/PROBLEM-28-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c">Program to Insert element at a given position.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c"><img src="https://img.shields.io/badge/PROBLEM-28-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insert%20Element%20at%20Given%20Position/Insert_Element.c">Program to Insert an Element in a Specified Position in a given Array.</a></h3>
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c"><img src="https://img.shields.io/badge/PROBLEM-29-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c">Program to perform Insertion Sort in an array of elements.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c"><img src="https://img.shields.io/badge/PROBLEM-29-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Insertion%20Sort/Insertion_Sort.c">Program to Implement Insertion Sort.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c"><img src="https://img.shields.io/badge/PROBLEM-30-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c">Program to find Intersection of two sets.</a></h3>
-
-
-
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c"><img src="https://img.shields.io/badge/PROBLEM-31-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c">Program to find the largest number among three using Ternary Operator.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c"><img src="https://img.shields.io/badge/PROBLEM-30-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Intersection%20of%20Set/Intersection_Of_Sets.c">Program to Calculate the Intersection of Two Sets</a></h3>
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c"><img src="https://img.shields.io/badge/PROBLEM-32-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c">Program to check whether given year is Leap or not.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c"><img src="https://img.shields.io/badge/PROBLEM-31-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Largest%20Among%20Three%20Numbers/Largest_Among_Three.c">Program to Find the Largest Number using Ternary Operator.</a></h3>
 
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c"><img src="https://img.shields.io/badge/PROBLEM-33-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c">Program to perform Left Shift Operation in a given number.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c"><img src="https://img.shields.io/badge/PROBLEM-32-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Leap%20Year/Leap_Year.c">Program to check if a given year is Leap Year.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c"><img src="https://img.shields.io/badge/PROBLEM-33-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Left%20Shift/Left_Shift.c">Program to demonstrate example of left shift (<<) operator.</a></h3>
 
 
 
@@ -149,7 +149,7 @@
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Max%20and%20Min%20Using%202D%20Arrays/Max_Min_Using_2D_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-37-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Max%20and%20Min%20Using%202D%20Arrays/Max_Min_Using_2D_Arrays.c">Program to find the Maximum and Minimum element in a Matrix.</a></h3>
 
 
-<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-38-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c">Program for Merging Two Arrays of different size.</a></h3>
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c"><img src="https://img.shields.io/badge/PROBLEM-38-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Merging%20of%20Two%20Arrays/Merging_of_Arrays.c">Program to merge two arrays of different size.</a></h3>
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c"><img src="https://img.shields.io/badge/PROBLEM-39-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Message%20Box/Message_Box.c">Program to Display Mesaage Box.</a></h3>
