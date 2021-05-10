@@ -303,3 +303,9 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Vowel%20Present%20in%20String%20or%20Not/Vowels_Present_in_String_Or_Not.c"><img src="https://img.shields.io/badge/PROBLEM-86-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Vowel%20Present%20in%20String%20or%20Not/Vowels_Present_in_String_Or_Not.c">Program to count Vowels in a string.</a></h3>
+
+_________________________________
+
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programs">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
+
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
