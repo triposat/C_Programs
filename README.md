@@ -258,3 +258,22 @@
 
 
 <pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcat%20Function/Strcat.c"><img src="https://img.shields.io/badge/PROBLEM-70-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcat%20Function/Strcat.c">Program for StrCat Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcmp%20Function/Strcmp.c"><img src="https://img.shields.io/badge/PROBLEM-71-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcmp%20Function/Strcmp.c">Program for StrCmp Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcpy%20Function/Strcpy.c"><img src="https://img.shields.io/badge/PROBLEM-72-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strcpy%20Function/Strcpy.c">Program for StrCpy Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strlen%20Function/Strlen.c"><img src="https://img.shields.io/badge/PROBLEM-73-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Strlen%20Function/Strlen.c">Program for StrLen Function.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/String%20is%20Palindrome%20or%20not/String_is_Palindrome_or_not.c"><img src="https://img.shields.io/badge/PROBLEM-74-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/String%20is%20Palindrome%20or%20not/String_is_Palindrome_or_not.c">Program to check whether string is Palindrome or not.</a></h3>
+
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-75-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c">Program to find the Sum upto n numbers.</a></h3>
+
+
+<pre><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c"><img src="https://img.shields.io/badge/PROBLEM-75-important.svg?style=for-the-badge&logo=c&logoColor=yellow"></a></pre><h3><a href="https://github.com/Iamtripathisatyam/C_Programs/blob/main/C%20Programs/Sum%20Upto%20given%20number%20Using%20Recursion/Sum_Using_Recursion.c">Program to find the Sum upto n numbers.</a></h3>
